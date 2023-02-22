@@ -19,7 +19,7 @@
 
  - Высоту на уровнем, запомненным во время включения.
 
-.. image:: _static/t2.png
+.. image:: _static/t1.png
    :height: 200 px
    :width:  200 px
    :scale: 75 %
