@@ -3,14 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. image:: _static/real.png
-   :height: 200 px
-   :width:  200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
-
-
 Свeтовод
 ========
 
@@ -72,3 +64,9 @@
 При полностью разряженном аккумуляторе время зарядки составляет не менее одного часа.
 
 
+.. image:: _static/real.png
+   :height: 200 px
+   :width:  200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
